@@ -1,5 +1,5 @@
 class WillsBadlibs {
-  String arr[] = {"a place", "an adjective", "a verb ending with -ing",
+  static String arr[] = {"a place", "an adjective", "a verb ending with -ing",
     "a famous person", "a friend", "a present tense verb", "a room", "a musical instrument"};
   
   public static void printBadLib(String userArr[]){
